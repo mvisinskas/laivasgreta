@@ -747,3 +747,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+.facebook-link {
+  font-size: 1.4em; 
+  color: #004080 !important;
+}
